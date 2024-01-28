@@ -1,0 +1,2 @@
+- 👋 Hi, Paul Walton here.
+- 👀 Passionate about Gameplay Engineering, AI Programming, and Procedural Content Generation.
